@@ -1,6 +1,6 @@
  💬 Real-Time Group Chat App
 
-A full-featured real-time group chat application built with **Node.js**, **Express**, and **Socket.IO**. 
+ full-featured real-time group chat application built with **Node.js**, **Express**, and **Socket.IO**. 
 This app allows multiple users to join a single chat room, send messages instantly, and see who's online — all in real time.
 
 > 🚀 **Live Demo:** _[Add your live URL here if deployed]
